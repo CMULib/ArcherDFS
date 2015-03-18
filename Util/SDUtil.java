@@ -24,7 +24,7 @@ public class SDUtil {
 
     public static final int POOLSIZE = 10;
 
-    public static final String LOGPATH = "/Users/amaliujia/Documents/github/ArcherDFS/Resources/ArcherDFS.log";
+    public static final String LOGPATH = "Resources/ArcherDFS.log";
     public static final int DEFAULT_REPLICATION = 1;
 
     static public void fatalError (String message) {
